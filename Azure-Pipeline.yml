@@ -1,4 +1,4 @@
-# This is the main pipelien which covers all the stages
+# This is the main pipeline which covers all the stages
 # The tasks are stored in pipelines/steps.yml
 # you can read more about this:
 trigger:
